@@ -1,3 +1,5 @@
+package OOP.Inheritance.Hierarchical;
+
 class Person {
     public void show() {
         System.out.println("I am a Person");

@@ -1,3 +1,5 @@
+package OOP.Inheritance.Multiple_Interface;
+
 //base interface1
 interface Runnable {
     public void run();

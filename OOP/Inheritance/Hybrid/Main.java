@@ -1,3 +1,5 @@
+package OOP.Inheritance.Hybrid;
+
 // Creating interfaces
 interface CompetitiveCoder {
     void competitive();
