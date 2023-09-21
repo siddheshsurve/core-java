@@ -17,3 +17,11 @@ public class Main extends A {
         m.show();
     }
 }
+
+// final methods cannot override
+
+// static methods cannot override
+
+// private methods cannot override
+
+// synchronized or strictfp can be override
