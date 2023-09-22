@@ -7,7 +7,7 @@ class A {
 
 public class Main {
     static void show() {
-        System.out.println("Method from main class");
+        System.out.println("Method f rom main class");
     }
 
     public static void main(String[] args) {
